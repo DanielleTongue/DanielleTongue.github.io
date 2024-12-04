@@ -1,1 +1,1 @@
-## 🛠️ **Skills**
+(https://danielletongue.github.io/#junior-developer)
