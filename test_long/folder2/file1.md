@@ -1,3 +1,3 @@
 # file1
 
-source: `{{ page.path }}`
+source: `{{ https://danielletongue.github.io/#tongue-danielle }}`
