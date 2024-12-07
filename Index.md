@@ -26,7 +26,7 @@ Je suis étudiante en science des données, je m'intéresse plus particulièreme
 ---
 
 ## 💼 **Expérience professionnelle**  
-### Chargé(e) d'étude et de statistique  
+### Chargée d'étude et de statistique  
 **Caf des Yvelines** - Versailles, France  
 *Août 2023 - Présent*  
 - Réécriture des requêtes SAS en Python  
