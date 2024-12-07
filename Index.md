@@ -14,7 +14,7 @@ Je suis étudiante en science des données, je m'intéresse plus particulièreme
 
 ## 🛠️ **Compétences**  
 - **Langages de programmation** : JavaScript, Python, PHP, R  
-- **Outils** : Git, Docker, Jenkins  
+- **Outils** :Databricks,Visualstudiocode,Powerbi, Argis,Qgis
 - **Bases de données** : MySQL, PostgreSQL, MongoDB, Neo4j  
 - **Compétences relationnelles** : Collaboration en équipe, résolution de problèmes, méthodologies agiles  
 
