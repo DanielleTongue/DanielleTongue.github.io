@@ -1,8 +1,7 @@
 # Tongue Danielle  
 **PROFIL PERSONNEL**
 
-Je suis étudiante en science des données, je m'intéresse plus particulièrement à l’informatique et à la data. Je suis à la rechercheJeme caractérise par ma rapidité
-d'apprentissage et mon gout pour un travaille bien fait. Dotée d'une grande capacité d'adaptation ,je sais me montrer proactive et digne de confiance dans la réalisation de mes missions.
+Je suis étudiante en science des données, je m'intéresse plus particulièrement à l’informatique et à la data.Je me caractérise par ma rapidité d'apprentissage et mon gout pour un travaille bien fait. Dotée d'une grande capacité d'adaptation ,je sais me montrer proactive et digne de confiance dans la réalisation de mes missions.
 
 ---
 📍 **Localisation** : Chaville, France  
