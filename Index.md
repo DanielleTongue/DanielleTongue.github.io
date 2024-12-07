@@ -1,4 +1,8 @@
 # Tongue Danielle  
+**PROFIL PERSONNEL**
+Je suis étudiante en science des données, je m'intéresse plus particulièrement à l’informatique et à la data. Je suis à la rechercheJeme caractérise par ma rapidité
+d'apprentissage et mon gout pour un travaille bien fait. Dotée d'une grande capacité d'adaptation ,je sais me montrer proactive et digne de confiance dans la réalisation de mes missions.
+---
 📍 **Localisation** : Chaville, France  
 📧 **Email** : danielletongue9@gmail.com  
 
@@ -10,6 +14,11 @@
 - **Bases de données** : MySQL, PostgreSQL, MongoDB, Neo4j  
 - **Compétences relationnelles** : Collaboration en équipe, résolution de problèmes, méthodologies agiles  
 
+---
+## 🛠️ **Compétences Relationnelles (Soft Skills)**  
+- 🗣️ **Communication** : Capacité à transmettre des idées clairement et efficacement, à l'écrit comme à l'oral.  
+- 🤝 **Esprit d'équipe** : Aptitude à collaborer avec des collègues et à contribuer à des projets communs de manière harmonieuse.  
+- 💡 **Proactivité** : Prise d'initiative pour résoudre les problèmes et améliorer les processus sans attendre les consignes.  
 ---
 
 ## 💼 **Expérience professionnelle**  
@@ -65,6 +74,7 @@ Réalisation d'un projet complet pour la création et la gestion d'un entrepôt 
 ---
 
 ## 🧩 **Loisirs**  
-- 🎨 Création de podcasts  
-- 🎸 Tennis  
-- 🏃 Voyages  
+- 🎙️ Création de podcasts   
+- 🎾 Tennis
+- ✈️ Voyages  
+ 
