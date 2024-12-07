@@ -1,4 +1,4 @@
-![Photo de profil](assets/images/photopro.jpg)
+<img src="assets/images/photopro.jpg" alt="Photo de profil" style="width:150px; height:150px; object-fit:cover; display:block; margin:0 auto;">
 
 
 # Tongue Danielle  
