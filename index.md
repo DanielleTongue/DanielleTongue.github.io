@@ -22,7 +22,7 @@ Je suis étudiante en science des données, je m'intéresse plus particulièreme
 ## 🛠️ **Compétences Relationnelles (Soft Skills)**  
 - 🗣️ **Communication** : Capacité à transmettre des idées clairement et efficacement, à l'écrit comme à l'oral.  
 - 🤝 **Esprit d'équipe** : Aptitude à collaborer avec des collègues et à contribuer à des projets communs de manière harmonieuse.  
-- 💡 **Proactivité** : Prise d'initiative pour résoudre les problèmes et améliorer les processus sans attendre les consignes.  
+- 💡 **Proactivité**  : Prise d'initiative pour résoudre les problèmes et améliorer les processus sans attendre les consignes.  
 ---
 
 ## 💼 **Expérience professionnelle**  
